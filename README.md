@@ -31,17 +31,22 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/AmandaAmorim/AmandaAmorim/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/AmandaAmorim/AmandaAmorim/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/AmandaAmorim/AmandaAmorim/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmandaAmorim&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaAmorim&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
 
+<br clear="both">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmandaAmorim&theme=tokyo-night&hide_border=true" height="300" alt="activity-graph graph"  />
+
+###
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmandaAmorim/AmandaAmorim/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmandaAmorim/AmandaAmorim/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AmandaAmorim/AmandaAmorim/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmandaAmorim/amandaamorim/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmandaAmorim/amandaamorim/output/github-contribution-grid-snake.svg">
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/AmandaAmorim/amandaamorim/output/github-contribution-grid-snake.svg">
 </picture>
 
 ###
