@@ -34,11 +34,9 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmandaAmorim/amandaamorim/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmandaAmorim/amandaamorim/output/github-contribution-grid-snake.svg">
-  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/AmandaAmorim/amandaamorim/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <img src="https://ghchart.rshah.org/C792EA/AmandaAmorim" alt="contribution graph" />
+</div>
 
 ###
 
